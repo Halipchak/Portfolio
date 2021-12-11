@@ -18,6 +18,7 @@
     height: 140px;
     display: flex;
     justify-content: start;
+    margin-left: 30px;
 }
 .nav__items{
     display: flex;
@@ -30,6 +31,7 @@
 .nav__item{
     margin-left: 40px;
     font-size: 20px;
+    font-family: 'Readex Pro', sans-serif;
 }
 .nav__item__a{
     text-decoration: none;
@@ -86,7 +88,7 @@
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
 }
-.i__index__main{
+.img__index__main{
     width: 350px;
     height: 450px;
     display: flex;
