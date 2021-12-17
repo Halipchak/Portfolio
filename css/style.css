@@ -4,7 +4,7 @@
 }
 .container{
     width: 90%;
-    height: 600px;
+    height: auto;
     box-shadow: 5px 5px 20px;
     margin: 0 auto;
     margin-top: 55px;
@@ -37,10 +37,10 @@
     text-decoration: none;
     color: grey;
 }
-.main{
+.main-home{
     margin-top: 200px;
 }
-.main__h2{
+.main-home__h2{
     text-align: center;
     color: gray;
     display: flex;
@@ -49,7 +49,7 @@
     font-family: 'Readex Pro', sans-serif;
     font-size: 30px;
 }
-.main__h1{
+.main-home__h1{
     text-align: center;
     color: grey;
     display: flex;
@@ -58,7 +58,7 @@
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
 }
-.main__p{
+.main-home__p{
     text-align: center;
     display: flex;
     justify-content: start;
@@ -67,7 +67,7 @@
     color: gray;
     font-size: 20px;
 }
-.main__button{
+.main-home__button{
     margin-top: 15px;
     margin-left: 100px;
     width: 190px;
@@ -81,14 +81,14 @@
     padding-left: 33px;
     padding-top: 10px;
 }
-.main__a{
+.main-home__a{
     font-size: 17px;
     text-align: center;
     color: white;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
 }
-.img__index__main{
+.img__index__main-home{
     width: 350px;
     height: 450px;
     display: flex;
@@ -96,4 +96,7 @@
     margin-top: -340px;
     margin-left: 950px;
     
+}
+.main-about{
+
 }
